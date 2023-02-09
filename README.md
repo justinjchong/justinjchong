@@ -1,5 +1,7 @@
 ### Hi there, I'm Justin 👋
 
+I'm a fullstack software engineer based in Orange County, California.
+
 <!--
 **justinjchong/justinjchong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
