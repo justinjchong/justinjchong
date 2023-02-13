@@ -2,6 +2,11 @@
 
 I'm a fullstack software engineer based in Orange County, California.
 
+- 🦄 Interests: Outside of tech, I enjoy watching anime, reading webtoons, and keeping up with esports
+- 📫 How to reach me: justin.jw.chong@gmail.com
+
+## Languages, Frameworks, and Tools
+
 <!--
 **justinjchong/justinjchong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
