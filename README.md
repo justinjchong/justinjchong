@@ -3,7 +3,6 @@
 
 I'm a fullstack software engineer based in Orange County, California.
 
-- 🦄 Interests: Outside of software engineering, I enjoy anime, webtoons, and esports
 - 📫 How to reach me: justin.jw.chong@gmail.com
 
 ## Languages, Frameworks, and Tools
@@ -34,6 +33,7 @@ I'm a fullstack software engineer based in Orange County, California.
 
 Here are some ideas to get you started:
 
+- 🦄 Interests: Outside of coding, I enjoy reading webtoons, gaming, and playing pickleball
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
